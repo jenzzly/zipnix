@@ -1,0 +1,9 @@
+Tools used :
+
+Today I had a jaw dropping moment, when I saw Linux emulator in Javascript: http://bellard.org/jslinux/
+
+It compiles C programs, it has vi and emacs, it supports all shell commands, etc etc.
+
+How does it work?
+
+
